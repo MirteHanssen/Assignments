@@ -6,3 +6,5 @@ This repository contains my assignments
 [assignment 3](https://github.com/MirteHanssen/Assignments/blob/master/assignment3%20(1).ipynb)
 
 [assignment 4](https://github.com/MirteHanssen/Assignments/blob/master/assignment4.ipynb)
+
+[Graded assignment 1 (week 6)](https://github.com/MirteHanssen/Assignments/blob/master/Graded_assignment1%20(1).ipynb)
